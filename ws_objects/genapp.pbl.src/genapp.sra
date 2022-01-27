@@ -51,6 +51,10 @@ event open;//*-----------------------------------------------------------------*
 //*            2) Populate SQLCA and Connect to the database
 //*            3) Open frame window
 //*-----------------------------------------------------------------*/
+
+
+Messagebox("Demo"," Ok")
+
 n_genapp_connectservice lnv_connectserv
 
 /*  This prevents double toolbar  */
