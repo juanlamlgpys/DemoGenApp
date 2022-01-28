@@ -53,7 +53,7 @@ event open;//*-----------------------------------------------------------------*
 //*-----------------------------------------------------------------*/
 
 
-Messagebox("Demo"," Version 9")
+Messagebox("Demo"," Version 10")
 
 n_genapp_connectservice lnv_connectserv
 
