@@ -68,7 +68,7 @@ If lnv_connectserv.of_ConnectDB ( ) = 0 Then
 	Open ( w_genapp_frame )
 End if
 
-Destroy lnv_connectserv
+Destroy lnv_connectserv 
 end event
 
 event close;//*-----------------------------------------------------------------*/
