@@ -53,7 +53,9 @@ event open;//*-----------------------------------------------------------------*
 //*-----------------------------------------------------------------*/
 
 
-Messagebox("Demo"," Version 5")
+Messagebox("Demo"," Version 2022-V1")
+
+Return 
 
 n_genapp_connectservice lnv_connectserv
 
